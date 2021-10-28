@@ -8,5 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="LightGray">
         <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Bloemenwinkel Selectie Mimosa" VerticalAlignment="Top" Height="110" Width="145" FontSize="18"/>
+        <Image HorizontalAlignment="Left" Height="175" Margin="160,20,0,0" VerticalAlignment="Top" Width="175"/>
+        <Image HorizontalAlignment="Left" Height="175" Margin="405,215,0,0" VerticalAlignment="Top" Width="175"/>
+        <Image HorizontalAlignment="Left" Height="175" Margin="160,215,0,0" VerticalAlignment="Top" Width="175"/>
+        <Image HorizontalAlignment="Left" Height="175" Margin="405,20,0,0" VerticalAlignment="Top" Width="175"/>
     </Grid>
 </Window>
