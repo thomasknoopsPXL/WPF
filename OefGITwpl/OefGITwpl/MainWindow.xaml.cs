@@ -24,5 +24,25 @@ namespace OefGITwpl
         {
             InitializeComponent();
         }
+
+        private void Img1(object sender, MouseEventArgs e)
+        {
+            this.Background = Brushes.Red;
+        }
+
+        private void Img2(object sender, MouseEventArgs e)
+        {
+            this.Background = Brushes.Purple;
+        }
+
+        private void Img3(object sender, MouseEventArgs e)
+        {
+            this.Background = Brushes.Orange;
+        }
+
+        private void Img4(object sender, MouseEventArgs e)
+        {
+            this.Background = Brushes.Yellow;
+        }
     }
 }
